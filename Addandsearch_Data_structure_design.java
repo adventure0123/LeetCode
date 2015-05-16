@@ -9,7 +9,7 @@ public class Addandsearch_Data_structure_design {
 	public Addandsearch_Data_structure_design() {
 		root = new TrieNode();
 	}
-
+	// Adds a word into the data structure
 	public void addWord(String word) {
 		TrieNode node = root;
 		for (int i = 0; i < word.length(); i++) {
