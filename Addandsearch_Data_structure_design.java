@@ -4,6 +4,7 @@ import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
 
+// hint trie tree
 public class Addandsearch_Data_structure_design {
 	private TrieNode root;
 	public Addandsearch_Data_structure_design() {
