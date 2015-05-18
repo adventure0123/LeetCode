@@ -6,7 +6,10 @@ leetcode solution in java
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
 |211|Add and Search Word - Data structure design|java|medium|
+|20|Valid Parentheses|java|easy|
+|16|3Sum Closest|java|medium|
 |15|3Sum|java|medium|
+|14|Longest Common Prefix|java|easy|
 |11|Container With Most Water|java|medium|
 |9|Palindrome Number|java|easy|
 |8|String to Integer (atoi)|java|easy|
