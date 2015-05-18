@@ -7,6 +7,8 @@ leetcode solution in java
 |---|-------|----------|------------|
 |211|Add and Search Word - Data structure design|java|medium|
 |20|Valid Parentheses|java|easy|
+|19|Remove Nth Node From End of List|java|easy|
+|17|Letter Combinations of a Phone Number|java|medium|
 |16|3Sum Closest|java|medium|
 |15|3Sum|java|medium|
 |14|Longest Common Prefix|java|easy|
