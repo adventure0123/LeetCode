@@ -7,7 +7,7 @@ leetcode solution in java
 |---|-------|----------|------------|
 |212|Word Search II|java|hard|
 |211|Add and Search Word - Data structure design|java|medium|
-|23|Merge k Sorted Lists|hard|
+|23|Merge k Sorted Lists|java|hard|
 |22|Generate Parentheses|java|medium|
 |21|Merge Two Sorted Lists|java|easy|
 |20|Valid Parentheses|java|easy|
