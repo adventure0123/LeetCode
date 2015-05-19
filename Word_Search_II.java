@@ -1,9 +1,12 @@
+package com.LeetCode;
+
 
 import java.util.*;
 
 /**
  * Created by yuanjianwei on 2015/5/19.
  */
+//tire tree backtracking
 public class Word_Search_II {
     class trieNode {
         Map<Character, trieNode> map = new HashMap<>();
