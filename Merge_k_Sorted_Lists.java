@@ -3,6 +3,7 @@ package com.LeetCode;
 import java.util.Comparator;
 import java.util.PriorityQueue;
 
+//PriorityQueue min-heap
 public class Merge_k_Sorted_Lists {
 	public ListNode mergeKLists(ListNode[] lists) {
 		if (lists.length == 0) {
