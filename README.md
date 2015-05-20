@@ -5,9 +5,12 @@ leetcode solution in java
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
-|213|House Robber II|java|easy|
+|213|House Robber II|java|medium|
 |212|Word Search II|java|hard|
 |211|Add and Search Word - Data structure design|java|medium|
+|28|Implement strStr()|java|easy|
+|27|Remove Element|java|easy|
+|26|Remove Duplicates from Sorted Array|java|easy|
 |24|Swap Nodes in Pairs|java|medium|
 |23|Merge k Sorted Lists|java|hard|
 |22|Generate Parentheses|java|medium|
