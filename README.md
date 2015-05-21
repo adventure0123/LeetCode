@@ -8,6 +8,10 @@ leetcode solution in java
 |213|House Robber II|java|medium|
 |212|Word Search II|java|hard|
 |211|Add and Search Word - Data structure design|java|medium|
+|55|Jump Game|java|medium|
+|46|Permutations|java|medium|
+|45|Jump Game II|java|hard|
+|42|Trapping Rain Water|java|hard|
 |41|First Missing Positive|java|hard|
 |32|Longest Valid Parentheses|java|hard|
 |28|Implement strStr()|java|easy|
