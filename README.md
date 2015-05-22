@@ -14,6 +14,7 @@ leetcode solution in java
 |42|Trapping Rain Water|java|hard|
 |41|First Missing Positive|java|hard|
 |32|Longest Valid Parentheses|java|hard|
+|31|Next Permutation|java|medium|
 |28|Implement strStr()|java|easy|
 |27|Remove Element|java|easy|
 |26|Remove Duplicates from Sorted Array|java|easy|
