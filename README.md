@@ -9,6 +9,7 @@ leetcode solution in java
 |212|Word Search II|java|hard|
 |211|Add and Search Word - Data structure design|java|medium|
 |55|Jump Game|java|medium|
+|49|Anagrams|java|medium|
 |46|Permutations|java|medium|
 |45|Jump Game II|java|hard|
 |42|Trapping Rain Water|java|hard|
