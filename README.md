@@ -5,6 +5,9 @@ leetcode solution in java
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
+|217|Contains Duplicate|java|easy|
+|216|Combination Sum III|java|medium|
+|215|Kth Largest Element in an Array|java|medium|
 |213|House Robber II|java|medium|
 |212|Word Search II|java|hard|
 |211|Add and Search Word - Data structure design|java|medium|
