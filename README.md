@@ -11,8 +11,11 @@ leetcode solution in java
 |213|House Robber II|java|medium|
 |212|Word Search II|java|hard|
 |211|Add and Search Word - Data structure design|java|medium|
+|58|Length of Last Word|java|easy|
+|57|Insert Interval|java|hard|
 |56|Merge Intervals|java|hard|
 |55|Jump Game|java|medium|
+|54|Spiral Matrix|java|medium|
 |53|Maximum Subarray|java|medium|
 |49|Anagrams|java|medium|
 |46|Permutations|java|medium|
