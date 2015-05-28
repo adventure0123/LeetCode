@@ -11,6 +11,12 @@ leetcode solution in java
 |213|House Robber II|java|medium|
 |212|Word Search II|java|hard|
 |211|Add and Search Word - Data structure design|java|medium|
+|73|Set Matrix Zeroes|java|medium|
+|72|Edit Distance|java|hard|
+|71|Simplify Path|java|medium|
+|70|Climbing Stairs|java|easy|
+|69|Sqrt(x)|java|medium|
+|67|Add Binary|java|easy|
 |66|Plus One|java|easy|
 |64|Minimum Path Sum|java|medium|
 |63|Unique Paths II|java|medium|
