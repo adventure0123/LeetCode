@@ -5,12 +5,14 @@ leetcode solution in java
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
+|219|Contains Duplicate II|java|easy|
 |217|Contains Duplicate|java|easy|
 |216|Combination Sum III|java|medium|
 |215|Kth Largest Element in an Array|java|medium|
 |213|House Robber II|java|medium|
 |212|Word Search II|java|hard|
 |211|Add and Search Word - Data structure design|java|medium|
+|74|Search a 2D Matrix|java|medium|
 |73|Set Matrix Zeroes|java|medium|
 |72|Edit Distance|java|hard|
 |71|Simplify Path|java|medium|
