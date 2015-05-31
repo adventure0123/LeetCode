@@ -12,6 +12,8 @@ leetcode solution in java
 |213|House Robber II|java|medium|
 |212|Word Search II|java|hard|
 |211|Add and Search Word - Data structure design|java|medium|
+|77|Combinations|java|medium|
+|75|Sort Colors|java|medium|
 |74|Search a 2D Matrix|java|medium|
 |73|Set Matrix Zeroes|java|medium|
 |72|Edit Distance|java|hard|
