@@ -12,6 +12,10 @@ leetcode solution in java
 |213|House Robber II|java|medium|
 |212|Word Search II|java|hard|
 |211|Add and Search Word - Data structure design|java|medium|
+|83|Remove Duplicates from Sorted List|java|easy|
+|82|Remove Duplicates from Sorted List II|java|medium|
+|80|Remove Duplicates from Sorted Array II|java|medium|
+|78|Subsets|java|medium|
 |77|Combinations|java|medium|
 |75|Sort Colors|java|medium|
 |74|Search a 2D Matrix|java|medium|
