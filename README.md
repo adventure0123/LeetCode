@@ -12,6 +12,9 @@ leetcode solution in java
 |213|House Robber II|java|medium|
 |212|Word Search II|java|hard|
 |211|Add and Search Word - Data structure design|java|medium|
+|88|Merge Sorted Array|java|easy|
+|86|Partition List|java|medium|
+|84|Largest Rectangle in Histogram|java|hard|
 |83|Remove Duplicates from Sorted List|java|easy|
 |82|Remove Duplicates from Sorted List II|java|medium|
 |80|Remove Duplicates from Sorted Array II|java|medium|
