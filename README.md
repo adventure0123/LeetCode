@@ -5,6 +5,8 @@ leetcode solution in java
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
+|221|Maximal Square|java|medium|
+|220|Contains Duplicate III|java|medium|
 |219|Contains Duplicate II|java|easy|
 |217|Contains Duplicate|java|easy|
 |216|Combination Sum III|java|medium|
@@ -12,6 +14,7 @@ leetcode solution in java
 |213|House Robber II|java|medium|
 |212|Word Search II|java|hard|
 |211|Add and Search Word - Data structure design|java|medium|
+|89|Gray Code|java|medium|
 |88|Merge Sorted Array|java|easy|
 |86|Partition List|java|medium|
 |84|Largest Rectangle in Histogram|java|hard|
