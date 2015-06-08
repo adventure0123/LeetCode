@@ -16,6 +16,9 @@ leetcode solution in java
 |213|House Robber II|java|medium|
 |212|Word Search II|java|hard|
 |211|Add and Search Word - Data structure design|java|medium|
+|92|Reverse Linked List II|java|medium|
+|91|Decode Ways|java|medium|
+|90|Subsets II|java|medium|
 |89|Gray Code|java|medium|
 |88|Merge Sorted Array|java|easy|
 |86|Partition List|java|medium|
