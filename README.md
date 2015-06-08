@@ -5,6 +5,8 @@ leetcode solution in java
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
+|223|Rectangle Area|java|easy|
+|222|Count Complete Tree Nodes|java|medium|
 |221|Maximal Square|java|medium|
 |220|Contains Duplicate III|java|medium|
 |219|Contains Duplicate II|java|easy|
