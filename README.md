@@ -5,6 +5,7 @@ leetcode solution in java
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
+|225|Implement Stack using Queues|java|medium|
 |223|Rectangle Area|java|easy|
 |222|Count Complete Tree Nodes|java|medium|
 |221|Maximal Square|java|medium|
@@ -16,6 +17,7 @@ leetcode solution in java
 |213|House Robber II|java|medium|
 |212|Word Search II|java|hard|
 |211|Add and Search Word - Data structure design|java|medium|
+|96|Unique Binary Search Trees|java|medium|
 |94|Binary Tree Inorder Traversal|java|medium|
 |93|Restore IP Addresses|java|medium|
 |92|Reverse Linked List II|java|medium|
