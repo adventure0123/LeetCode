@@ -18,6 +18,11 @@ leetcode solution in java
 |213|House Robber II|java|medium|
 |212|Word Search II|java|hard|
 |211|Add and Search Word - Data structure design|java|medium|
+|115|Distinct Subsequences|java|hard|
+|114|Flatten Binary Tree to Linked List|medium|
+|113|Path Sum II|medium|
+|112|Path Sum|java|easy|
+|111|Minimum Depth of Binary Tree|java|easy|
 |110|Balanced Binary Tree|java|easy|
 |108|Convert Sorted Array to Binary Search Tree|medium|
 |107|Binary Tree Level Order Traversal II|java|easy|
