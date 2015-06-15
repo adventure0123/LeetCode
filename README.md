@@ -18,6 +18,9 @@ leetcode solution in java
 |213|House Robber II|java|medium|
 |212|Word Search II|java|hard|
 |211|Add and Search Word - Data structure design|java|medium|
+|119|Pascal's Triangle II|java|easy|
+|118|PPascal's Triangle|java|easy|
+|116|Populating Next Right Pointers in Each Node|medium|
 |115|Distinct Subsequences|java|hard|
 |114|Flatten Binary Tree to Linked List|medium|
 |113|Path Sum II|medium|
