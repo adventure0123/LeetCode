@@ -19,18 +19,18 @@ leetcode solution in java
 |212|Word Search II|java|hard|
 |211|Add and Search Word - Data structure design|java|medium|
 |124|Binary Tree Maximum Path Sum|java|hard|
-|121|Best Time to Buy and Sell Stock|medium|
-|120|Triangle|medium|
+|121|Best Time to Buy and Sell Stock|java|medium|
+|120|Triangle|java|medium|
 |119|Pascal's Triangle II|java|easy|
 |118|PPascal's Triangle|java|easy|
-|116|Populating Next Right Pointers in Each Node|medium|
+|116|Populating Next Right Pointers in Each Node|java|medium|
 |115|Distinct Subsequences|java|hard|
-|114|Flatten Binary Tree to Linked List|medium|
-|113|Path Sum II|medium|
+|114|Flatten Binary Tree to Linked List|java|medium|
+|113|Path Sum II|java|medium|
 |112|Path Sum|java|easy|
 |111|Minimum Depth of Binary Tree|java|easy|
 |110|Balanced Binary Tree|java|easy|
-|108|Convert Sorted Array to Binary Search Tree|medium|
+|108|Convert Sorted Array to Binary Search Tree|java|medium|
 |107|Binary Tree Level Order Traversal II|java|easy|
 |104|Maximum Depth of Binary Tree|java|easy|
 |102|Binary Tree Level Order Traversal|java|easy|
