@@ -18,7 +18,9 @@ leetcode solution in java
 |213|House Robber II|java|medium|
 |212|Word Search II|java|hard|
 |211|Add and Search Word - Data structure design|java|medium|
+|125|Valid Palindrome|java|easy|
 |124|Binary Tree Maximum Path Sum|java|hard|
+|122|Best Time to Buy and Sell Stock II|java|medium|
 |121|Best Time to Buy and Sell Stock|java|medium|
 |120|Triangle|java|medium|
 |119|Pascal's Triangle II|java|easy|
