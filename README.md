@@ -18,6 +18,9 @@ leetcode solution in java
 |213|House Robber II|java|medium|
 |212|Word Search II|java|hard|
 |211|Add and Search Word - Data structure design|java|medium|
+|138|Copy List with Random Pointer|java|hard|
+|137|Single Number II|java|medium|
+|136|Single Number|java|medium|
 |129|Sum Root to Leaf Numbers|java|medium|
 |128|Longest Consecutive Sequence|java|hard|
 |127|Word Ladder|java|medium|
