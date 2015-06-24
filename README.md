@@ -22,6 +22,8 @@ leetcode solution in java
 |138|Copy List with Random Pointer|java|hard|
 |137|Single Number II|java|medium|
 |136|Single Number|java|medium|
+|135|Candy|java|hard|
+|134|Gas Station|java|medium|
 |129|Sum Root to Leaf Numbers|java|medium|
 |128|Longest Consecutive Sequence|java|hard|
 |127|Word Ladder|java|medium|
