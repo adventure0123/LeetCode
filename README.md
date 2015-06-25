@@ -18,6 +18,13 @@ leetcode solution in java
 |213|House Robber II|java|medium|
 |212|Word Search II|java|hard|
 |211|Add and Search Word - Data structure design|java|medium|
+|150|Evaluate Reverse Polish Notation|java|medium|
+|147|Insertion Sort List|java|medium|
+|145|Binary Tree Postorder Traversal|java|hard|
+|144|Binary Tree Preorder Traversal|java|medium|
+|143|Reorder List|java|medium|
+|142|Linked List Cycle II|java|medium|
+|141|Linked List Cycle|java|medium|
 |139|Word Break|java|medium|
 |138|Copy List with Random Pointer|java|hard|
 |137|Single Number II|java|medium|
