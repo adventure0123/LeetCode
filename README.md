@@ -5,6 +5,7 @@ leetcode solution in java
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
+|228|Summary Ranges|java|easy|
 |226|Invert Binary Tree|java|easy|
 |225|Implement Stack using Queues|java|medium|
 |223|Rectangle Area|java|easy|
@@ -18,6 +19,8 @@ leetcode solution in java
 |213|House Robber II|java|medium|
 |212|Word Search II|java|hard|
 |211|Add and Search Word - Data structure design|java|medium|
+|152|Maximum Product Subarray|java|medium|
+|151|Reverse Words in a String|java|medium|
 |150|Evaluate Reverse Polish Notation|java|medium|
 |147|Insertion Sort List|java|medium|
 |145|Binary Tree Postorder Traversal|java|hard|
