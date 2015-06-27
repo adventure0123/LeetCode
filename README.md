@@ -19,6 +19,9 @@ leetcode solution in java
 |213|House Robber II|java|medium|
 |212|Word Search II|java|hard|
 |211|Add and Search Word - Data structure design|java|medium|
+|162|Find Peak Element|java|medium|
+|160|Intersection of Two Linked Lists|java|easy|
+|155|Min Stack|java|easy|
 |154|Find Minimum in Rotated Sorted Array II|java|Hard|
 |153|Find Minimum in Rotated Sorted Array|java|medium|
 |152|Maximum Product Subarray|java|medium|
