@@ -19,6 +19,11 @@ leetcode solution in java
 |213|House Robber II|java|medium|
 |212|Word Search II|java|hard|
 |211|Add and Search Word - Data structure design|java|medium|
+|172|Factorial Trailing Zeroes|java|easy|
+|171|Excel Sheet Column Number|java|easy|
+|169|Majority Element|java|easy|
+|168|Excel Sheet Column Title|java|easy|
+|165|Compare Version Numbers|java|easy|
 |162|Find Peak Element|java|medium|
 |160|Intersection of Two Linked Lists|java|easy|
 |155|Min Stack|java|easy|
