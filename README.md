@@ -19,6 +19,9 @@ leetcode solution in java
 |213|House Robber II|java|medium|
 |212|Word Search II|java|hard|
 |211|Add and Search Word - Data structure design|java|medium|
+|189|Rotate Array|java|easy|
+|179|Largest Number|java|medium|
+|174|Dungeon Game|java|hard|
 |172|Factorial Trailing Zeroes|java|easy|
 |171|Excel Sheet Column Number|java|easy|
 |169|Majority Element|java|easy|
