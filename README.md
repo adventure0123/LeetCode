@@ -19,6 +19,11 @@ leetcode solution in java
 |213|House Robber II|java|medium|
 |212|Word Search II|java|hard|
 |211|Add and Search Word - Data structure design|java|medium|
+|201|Bitwise AND of Numbers Range|java|medium|
+|199|Binary Tree Right Side View|java|medium|
+|198|House Robber|java|easy|
+|191|Number of 1 Bits|java|easy|
+|190|Reverse Bits|java|easy|
 |189|Rotate Array|java|easy|
 |179|Largest Number|java|medium|
 |174|Dungeon Game|java|hard|
