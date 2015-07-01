@@ -19,6 +19,11 @@ leetcode solution in java
 |213|House Robber II|java|medium|
 |212|Word Search II|java|hard|
 |211|Add and Search Word - Data structure design|java|medium|
+|206|Reverse Linked List|java|easy|
+|205|Isomorphic Strings|java|easy|
+|204|Count Primes|java|easy|
+|203|Remove Linked List Elements|java|easy|
+|202|Happy Number|java|easy|
 |201|Bitwise AND of Numbers Range|java|medium|
 |199|Binary Tree Right Side View|java|medium|
 |198|House Robber|java|easy|
