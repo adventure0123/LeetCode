@@ -5,6 +5,7 @@ leetcode solution in java
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
+|230|Kth Smallest Element in a BST|java|medium|
 |228|Summary Ranges|java|easy|
 |226|Invert Binary Tree|java|easy|
 |225|Implement Stack using Queues|java|medium|
@@ -19,6 +20,10 @@ leetcode solution in java
 |213|House Robber II|java|medium|
 |212|Word Search II|java|hard|
 |211|Add and Search Word - Data structure design|java|medium|
+|210|Course Schedule II|java|medium|
+|209|Minimum Size Subarray Sum|java|medium|
+|208|Implement Trie (Prefix Tree)|java|medium|
+|207|Course Schedule|java|medium|
 |206|Reverse Linked List|java|easy|
 |205|Isomorphic Strings|java|easy|
 |204|Count Primes|java|easy|
