@@ -6,6 +6,7 @@ leetcode solution in java
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
 |230|Kth Smallest Element in a BST|java|medium|
+|229|Majority Element II|java|medium|
 |228|Summary Ranges|java|easy|
 |226|Invert Binary Tree|java|easy|
 |225|Implement Stack using Queues|java|medium|
