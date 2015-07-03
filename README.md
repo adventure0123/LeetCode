@@ -8,6 +8,7 @@ leetcode solution in java
 |230|Kth Smallest Element in a BST|java|medium|
 |229|Majority Element II|java|medium|
 |228|Summary Ranges|java|easy|
+|227|Basic Calculator II|java|medium|
 |226|Invert Binary Tree|java|easy|
 |225|Implement Stack using Queues|java|medium|
 |223|Rectangle Area|java|easy|
