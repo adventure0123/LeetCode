@@ -11,6 +11,7 @@ leetcode solution in java
 |227|Basic Calculator II|java|medium|
 |226|Invert Binary Tree|java|easy|
 |225|Implement Stack using Queues|java|medium|
+|224|Basic Calculator|java|medium|
 |223|Rectangle Area|java|easy|
 |222|Count Complete Tree Nodes|java|medium|
 |221|Maximal Square|java|medium|
