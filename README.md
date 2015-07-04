@@ -105,6 +105,7 @@ leetcode solution in java
 |80|Remove Duplicates from Sorted Array II|java|medium|
 |78|Subsets|java|medium|
 |77|Combinations|java|medium|
+|76|Minimum Window Substring|java|hard|
 |75|Sort Colors|java|medium|
 |74|Search a 2D Matrix|java|medium|
 |73|Set Matrix Zeroes|java|medium|
