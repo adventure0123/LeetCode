@@ -65,6 +65,7 @@ leetcode solution in java
 |136|Single Number|java|medium|
 |135|Candy|java|hard|
 |134|Gas Station|java|medium|
+|130|Surrounded Regions|java|medium|
 |129|Sum Root to Leaf Numbers|java|medium|
 |128|Longest Consecutive Sequence|java|hard|
 |127|Word Ladder|java|medium|
