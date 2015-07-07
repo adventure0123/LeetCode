@@ -134,6 +134,7 @@ leetcode solution in java
 |45|Jump Game II|java|hard|
 |42|Trapping Rain Water|java|hard|
 |41|First Missing Positive|java|hard|
+|34|Search for a Range|java|medium|
 |32|Longest Valid Parentheses|java|hard|
 |31|Next Permutation|java|medium|
 |28|Implement strStr()|java|easy|
