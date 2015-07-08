@@ -5,6 +5,7 @@ leetcode solution in java
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
+|233|Number of Digit One|java|medium|
 |232|Implement Queue using Stacks|java|easy|
 |231|Power of Two|java|easy|
 |230|Kth Smallest Element in a BST|java|medium|
@@ -136,6 +137,8 @@ leetcode solution in java
 |45|Jump Game II|java|hard|
 |42|Trapping Rain Water|java|hard|
 |41|First Missing Positive|java|hard|
+|38|Count and Say|java|easy|
+|35|Search Insert Position|java|medium|
 |34|Search for a Range|java|medium|
 |32|Longest Valid Parentheses|java|hard|
 |31|Next Permutation|java|medium|
