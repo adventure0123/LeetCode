@@ -6,6 +6,7 @@ leetcode solution in java
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
 |232|Implement Queue using Stacks|java|easy|
+|231|Power of Two|java|easy|
 |230|Kth Smallest Element in a BST|java|medium|
 |229|Majority Element II|java|medium|
 |228|Summary Ranges|java|easy|
@@ -68,6 +69,7 @@ leetcode solution in java
 |134|Gas Station|java|medium|
 |133|Clone Graph|java|medium|
 |132|Palindrome Partitioning II|java|hard|
+|131|Palindrome Partitioning|java|medium|
 |130|Surrounded Regions|java|medium|
 |129|Sum Root to Leaf Numbers|java|medium|
 |128|Longest Consecutive Sequence|java|hard|
