@@ -5,6 +5,7 @@ leetcode solution in java
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
+|234|Palindrome Linked List|java|easy|
 |233|Number of Digit One|java|medium|
 |232|Implement Queue using Stacks|java|easy|
 |231|Power of Two|java|easy|
@@ -137,6 +138,8 @@ leetcode solution in java
 |45|Jump Game II|java|hard|
 |42|Trapping Rain Water|java|hard|
 |41|First Missing Positive|java|hard|
+|40|Combination Sum II|java|medium|
+|39|Combination Sum|java|medium|
 |38|Count and Say|java|easy|
 |35|Search Insert Position|java|medium|
 |34|Search for a Range|java|medium|
