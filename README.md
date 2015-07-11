@@ -5,6 +5,7 @@ leetcode solution in java
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
+|235|Palindrome Linked List|java|easy|
 |234|Palindrome Linked List|java|easy|
 |233|Number of Digit One|java|medium|
 |232|Implement Queue using Stacks|java|easy|
@@ -154,6 +155,7 @@ leetcode solution in java
 |21|Merge Two Sorted Lists|java|easy|
 |20|Valid Parentheses|java|easy|
 |19|Remove Nth Node From End of List|java|easy|
+|18|4Sum|java|medium|
 |17|Letter Combinations of a Phone Number|java|medium|
 |16|3Sum Closest|java|medium|
 |15|3Sum|java|medium|
