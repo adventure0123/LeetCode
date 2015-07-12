@@ -1,3 +1,5 @@
+package com.LeetCode;
+
 
 /**
  * Created by yuanjianwei on 2015/5/18.

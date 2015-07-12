@@ -12,7 +12,7 @@ public class Combination_Sum_III {
         if (k <= 0 || n > 100) {
             return result;
         }
-        combination(result, new ArrayList<>(), 1, k, n, 0);
+        combination(result, new ArrayList<Integer>(), 1, k, n, 0);
         return result;
     }
 

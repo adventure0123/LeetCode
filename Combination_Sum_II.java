@@ -15,7 +15,7 @@ public class Combination_Sum_II {
         if(candidates.length==0){
             return result;
         }
-        combination( candidates,  target,0,result, new ArrayList<>(),0);
+        combination( candidates,  target,0,result, new ArrayList<Integer>(),0);
         return result;
     }
 

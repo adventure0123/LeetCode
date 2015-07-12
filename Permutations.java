@@ -14,7 +14,7 @@ public class Permutations {
         if (length == 0) {
             return result;
         }
-        addPermute(result, new ArrayList<>(), nums, 0);
+        addPermute(result, new ArrayList<Integer>(), nums, 0);
         return result;
     }
 
