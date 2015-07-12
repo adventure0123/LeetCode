@@ -146,6 +146,7 @@ leetcode solution in java
 |34|Search for a Range|java|medium|
 |32|Longest Valid Parentheses|java|hard|
 |31|Next Permutation|java|medium|
+|29|Divide Two Integers|java|medium|
 |28|Implement strStr()|java|easy|
 |27|Remove Element|java|easy|
 |26|Remove Duplicates from Sorted Array|java|easy|
