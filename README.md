@@ -5,7 +5,8 @@ leetcode solution in java
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
-|235|Palindrome Linked List|java|easy|
+|236|Lowest Common Ancestor of a Binary Tree|java|medium|
+|235|Lowest Common Ancestor of a Binary Search Tree|java|easy|
 |234|Palindrome Linked List|java|easy|
 |233|Number of Digit One|java|medium|
 |232|Implement Queue using Stacks|java|easy|
@@ -137,11 +138,13 @@ leetcode solution in java
 |49|Anagrams|java|medium|
 |46|Permutations|java|medium|
 |45|Jump Game II|java|hard|
+|43|Multiply Strings|java|medium|
 |42|Trapping Rain Water|java|hard|
 |41|First Missing Positive|java|hard|
 |40|Combination Sum II|java|medium|
 |39|Combination Sum|java|medium|
 |38|Count and Say|java|easy|
+|36|Valid Sudoku|java|easy|
 |35|Search Insert Position|java|medium|
 |34|Search for a Range|java|medium|
 |32|Longest Valid Parentheses|java|hard|
