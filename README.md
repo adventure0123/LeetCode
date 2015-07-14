@@ -129,12 +129,14 @@ leetcode solution in java
 |63|Unique Paths II|java|medium|
 |62|Unique Paths|java|medium|
 |61|Rotate List|java|medium|
+|59|Spiral Matrix II|java|medium|
 |58|Length of Last Word|java|easy|
 |57|Insert Interval|java|hard|
 |56|Merge Intervals|java|hard|
 |55|Jump Game|java|medium|
 |54|Spiral Matrix|java|medium|
 |53|Maximum Subarray|java|medium|
+|50|Pow(x, n)|java|medium|
 |49|Anagrams|java|medium|
 |46|Permutations|java|medium|
 |45|Jump Game II|java|hard|
