@@ -138,6 +138,7 @@ leetcode solution in java
 |55|Jump Game|java|medium|
 |54|Spiral Matrix|java|medium|
 |53|Maximum Subarray|java|medium|
+|51|N-Queens|java|hard|
 |50|Pow(x, n)|java|medium|
 |49|Anagrams|java|medium|
 |46|Permutations|java|medium|
