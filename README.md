@@ -46,6 +46,7 @@ leetcode solution in java
 |191|Number of 1 Bits|java|easy|
 |190|Reverse Bits|java|easy|
 |189|Rotate Array|java|easy|
+|187|Repeated DNA Sequences|java|medium|
 |179|Largest Number|java|medium|
 |174|Dungeon Game|java|hard|
 |172|Factorial Trailing Zeroes|java|easy|
