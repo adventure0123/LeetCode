@@ -105,6 +105,7 @@ leetcode solution in java
 |98|Validate Binary Search Tree|java|medium|
 |97|Interleaving String|java|hard|
 |96|Unique Binary Search Trees|java|medium|
+|95|Unique Binary Search TreesII|java|medium|
 |94|Binary Tree Inorder Traversal|java|medium|
 |93|Restore IP Addresses|java|medium|
 |92|Reverse Linked List II|java|medium|
