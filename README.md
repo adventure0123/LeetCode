@@ -5,6 +5,7 @@ leetcode solution in java
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
+|240|Search a 2D Matrix II|java|medium|
 |239|Sliding Window Maximum|java|hard|
 |238|Product of Array Except Self|java|medium|
 |237|Delete Node in a Linked List|java|easy|
