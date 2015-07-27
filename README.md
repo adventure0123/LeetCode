@@ -5,6 +5,7 @@ leetcode solution in java
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
+|241|Different Ways to Add Parentheses|java|medium|
 |240|Search a 2D Matrix II|java|medium|
 |239|Sliding Window Maximum|java|hard|
 |238|Product of Array Except Self|java|medium|
