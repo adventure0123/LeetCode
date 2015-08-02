@@ -5,6 +5,7 @@ leetcode solution in java
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
+|242|Valid Anagram|java|easy|
 |241|Different Ways to Add Parentheses|java|medium|
 |240|Search a 2D Matrix II|java|medium|
 |239|Sliding Window Maximum|java|hard|
