@@ -45,6 +45,7 @@ leetcode solution in java
 |203|Remove Linked List Elements|java|easy|
 |202|Happy Number|java|easy|
 |201|Bitwise AND of Numbers Range|java|medium|
+|200|Number of Islands|java|medium|
 |199|Binary Tree Right Side View|java|medium|
 |198|House Robber|java|easy|
 |191|Number of 1 Bits|java|easy|
