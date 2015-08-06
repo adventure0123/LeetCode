@@ -54,6 +54,7 @@ leetcode solution in java
 |187|Repeated DNA Sequences|java|medium|
 |179|Largest Number|java|medium|
 |174|Dungeon Game|java|hard|
+|173|Binary Search Tree Iterator|java|medium|
 |172|Factorial Trailing Zeroes|java|easy|
 |171|Excel Sheet Column Number|java|easy|
 |169|Majority Element|java|easy|
