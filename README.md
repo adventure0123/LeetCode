@@ -59,6 +59,7 @@ leetcode solution in java
 |171|Excel Sheet Column Number|java|easy|
 |169|Majority Element|java|easy|
 |168|Excel Sheet Column Title|java|easy|
+|166|Fraction to Recurring Decimal|java|medium|
 |165|Compare Version Numbers|java|easy|
 |162|Find Peak Element|java|medium|
 |160|Intersection of Two Linked Lists|java|easy|
