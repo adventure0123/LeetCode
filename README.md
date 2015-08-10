@@ -69,6 +69,7 @@ leetcode solution in java
 |152|Maximum Product Subarray|java|medium|
 |151|Reverse Words in a String|java|medium|
 |150|Evaluate Reverse Polish Notation|java|medium|
+|148|Sort List|java|medium|
 |147|Insertion Sort List|java|medium|
 |145|Binary Tree Postorder Traversal|java|hard|
 |144|Binary Tree Preorder Traversal|java|medium|
