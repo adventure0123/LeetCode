@@ -5,6 +5,8 @@ leetcode solution in java
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
+|258|Add Digits|java|easy|
+|257|Binary Tree Paths|java|easy|
 |242|Valid Anagram|java|easy|
 |241|Different Ways to Add Parentheses|java|medium|
 |240|Search a 2D Matrix II|java|medium|
