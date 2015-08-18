@@ -5,6 +5,7 @@ leetcode solution in java
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
+|260|Single Number III|java|medium|
 |258|Add Digits|java|easy|
 |257|Binary Tree Paths|java|easy|
 |242|Valid Anagram|java|easy|
