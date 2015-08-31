@@ -6,6 +6,7 @@ leetcode solution in java
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
 |268|Missing Number|java|medium|
+|264|Ugly Number II|java|medium|
 |263|Ugly Number|java|easy|
 |260|Single Number III|java|medium|
 |258|Add Digits|java|easy|
