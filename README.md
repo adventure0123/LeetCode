@@ -6,6 +6,8 @@ leetcode solution in java
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
 |278|First Bad Version|java|easy|
+|275|H-Index II|java|medium|
+|274|H-Index|java|medium|
 |268|Missing Number|java|medium|
 |264|Ugly Number II|java|medium|
 |263|Ugly Number|java|easy|
