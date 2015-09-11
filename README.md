@@ -5,6 +5,7 @@ leetcode solution in java
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
+|279|Perfect Squares|java|medium|
 |278|First Bad Version|java|easy|
 |275|H-Index II|java|medium|
 |274|H-Index|java|medium|
