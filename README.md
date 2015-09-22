@@ -5,6 +5,7 @@ leetcode solution in java
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
+|284|Peeking Iterator|java|medium|
 |283|Move Zeroes|java|easy|
 |279|Perfect Squares|java|medium|
 |278|First Bad Version|java|easy|
