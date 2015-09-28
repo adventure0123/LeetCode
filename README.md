@@ -5,6 +5,7 @@ leetcode solution in java
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
+|287|Find the Duplicate Number|java|hard|
 |284|Peeking Iterator|java|medium|
 |283|Move Zeroes|java|easy|
 |279|Perfect Squares|java|medium|
