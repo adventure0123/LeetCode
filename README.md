@@ -6,6 +6,7 @@ leetcode solution in java
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
 |292|Nim Game|java|easy|
+|290|Word Pattern|java|easy|
 |287|Find the Duplicate Number|java|hard|
 |284|Peeking Iterator|java|medium|
 |283|Move Zeroes|java|easy|
