@@ -5,6 +5,7 @@ leetcode solution in java
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
+|295|Find Median from Data Stream|java|hard|
 |292|Nim Game|java|easy|
 |290|Word Pattern|java|easy|
 |287|Find the Duplicate Number|java|hard|
