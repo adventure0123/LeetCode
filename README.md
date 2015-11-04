@@ -5,6 +5,7 @@ leetcode solution in java
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
+|300|Longest Increasing Subsequence|java|medium|
 |299|Bulls and Cows|java|easy|
 |295|Find Median from Data Stream|java|hard|
 |292|Nim Game|java|easy|
