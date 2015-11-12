@@ -5,6 +5,7 @@ leetcode solution in java
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
+|303|Range Sum Query - Immutable|java|easy|
 |300|Longest Increasing Subsequence|java|medium|
 |299|Bulls and Cows|java|easy|
 |295|Find Median from Data Stream|java|hard|
