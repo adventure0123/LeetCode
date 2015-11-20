@@ -5,6 +5,7 @@ leetcode solution in java
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
+|307|Range Sum Query - Mutable|java|medium|
 |304|Range Sum Query 2D - Immutable|java|medium|
 |303|Range Sum Query - Immutable|java|easy|
 |300|Longest Increasing Subsequence|java|medium|
