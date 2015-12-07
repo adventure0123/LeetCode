@@ -5,6 +5,7 @@ leetcode solution in java
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
+|313|Super Ugly Number|java|medium|
 |309|Best Time to Buy and Sell Stock with Cooldown|java|medium|
 |307|Range Sum Query - Mutable|java|medium|
 |304|Range Sum Query 2D - Immutable|java|medium|
