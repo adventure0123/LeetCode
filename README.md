@@ -5,6 +5,7 @@ leetcode solution in java
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
+|318|Maximum Product of Word Lengths|java|medium|
 |316|Remove Duplicate Letters|java|medium|
 |313|Super Ugly Number|java|medium|
 |309|Best Time to Buy and Sell Stock with Cooldown|java|medium|
