@@ -5,6 +5,7 @@ leetcode solution in java
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
+|319|Bulb Switcher|java|medium|
 |318|Maximum Product of Word Lengths|java|medium|
 |316|Remove Duplicate Letters|java|medium|
 |313|Super Ugly Number|java|medium|
