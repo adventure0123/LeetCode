@@ -5,6 +5,7 @@ leetcode solution in java
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
+|322|Coin Change|java|medium|
 |319|Bulb Switcher|java|medium|
 |318|Maximum Product of Word Lengths|java|medium|
 |316|Remove Duplicate Letters|java|medium|
