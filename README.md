@@ -5,6 +5,8 @@ leetcode solution in java
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
+|328|Odd Even Linked List|java|easy|
+|326|Power of Three|java|easy|
 |322|Coin Change|java|medium|
 |319|Bulb Switcher|java|medium|
 |318|Maximum Product of Word Lengths|java|medium|
