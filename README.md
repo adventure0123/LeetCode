@@ -5,6 +5,7 @@ leetcode solution in java
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
+|329|Longest Increasing Path in a Matrix|java|medium|
 |328|Odd Even Linked List|java|easy|
 |326|Power of Three|java|easy|
 |322|Coin Change|java|medium|
