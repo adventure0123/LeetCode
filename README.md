@@ -5,6 +5,7 @@ leetcode solution in java
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
+|334|Increasing Triplet Subsequence|java|medium|
 |330|Patching Array|java|medium|
 |329|Longest Increasing Path in a Matrix|java|medium|
 |328|Odd Even Linked List|java|easy|
