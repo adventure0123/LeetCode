@@ -5,6 +5,7 @@ leetcode solution in java
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
+|338|Counting Bits|java|medium|
 |337|House Robber III|java|medium|
 |334|Increasing Triplet Subsequence|java|medium|
 |331|Verify Preorder Serialization of a Binary Tree|java|medium|
