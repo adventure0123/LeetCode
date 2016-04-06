@@ -27,6 +27,7 @@ leetcode solution in java
 |295|Find Median from Data Stream|java|hard|
 |292|Nim Game|java|easy|
 |290|Word Pattern|java|easy|
+|289|Game of Life|java|medium|
 |287|Find the Duplicate Number|java|hard|
 |284|Peeking Iterator|java|medium|
 |283|Move Zeroes|java|easy|
