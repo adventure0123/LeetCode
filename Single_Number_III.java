@@ -1,5 +1,5 @@
 import java.util.Arrays;
-package com.LeetCode;
+
 /**
  * Created by jianweiyuan on 16/4/7.
  */
