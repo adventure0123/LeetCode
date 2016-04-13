@@ -13,6 +13,7 @@ leetcode solution in java
 |329|Longest Increasing Path in a Matrix|java|medium|
 |328|Odd Even Linked List|java|easy|
 |326|Power of Three|java|easy|
+|324|Wiggle Sort II|java|medium|
 |322|Coin Change|java|medium|
 |319|Bulb Switcher|java|medium|
 |318|Maximum Product of Word Lengths|java|medium|
