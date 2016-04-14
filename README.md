@@ -15,6 +15,7 @@ leetcode solution in java
 |326|Power of Three|java|easy|
 |324|Wiggle Sort II|java|medium|
 |322|Coin Change|java|medium|
+|321|Create Maximum Number|java|hard|
 |319|Bulb Switcher|java|medium|
 |318|Maximum Product of Word Lengths|java|medium|
 |316|Remove Duplicate Letters|java|medium|
