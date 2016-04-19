@@ -5,6 +5,7 @@ leetcode solution in java
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
+|343|Integer Break|java|medium|
 |342|Power of Four|java|easy|
 |341|Flatten Nested List Iterator|java|medium|
 |338|Counting Bits|java|medium|
