@@ -5,6 +5,8 @@ leetcode solution in java
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
+|345|Reverse Vowels of a String|java|easy|
+|344|Reverse String|java|easy|
 |343|Integer Break|java|medium|
 |342|Power of Four|java|easy|
 |341|Flatten Nested List Iterator|java|medium|
