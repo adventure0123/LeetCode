@@ -24,6 +24,7 @@ leetcode solution in java
 |319|Bulb Switcher|java|medium|
 |318|Maximum Product of Word Lengths|java|medium|
 |316|Remove Duplicate Letters|java|medium|
+|315|Count of Smaller Numbers After Self|java|hard|
 |313|Super Ugly Number|java|medium|
 |309|Best Time to Buy and Sell Stock with Cooldown|java|medium|
 |307|Range Sum Query - Mutable|java|medium|
