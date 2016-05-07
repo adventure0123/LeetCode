@@ -5,6 +5,7 @@ leetcode solution in java
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
+|347|Top K Frequent Elements|java|medium|
 |345|Reverse Vowels of a String|java|easy|
 |344|Reverse String|java|easy|
 |343|Integer Break|java|medium|
