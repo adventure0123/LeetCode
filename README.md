@@ -5,6 +5,7 @@ leetcode solution in java
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
+|349|Intersection of Two Arrays|easy|
 |347|Top K Frequent Elements|java|medium|
 |345|Reverse Vowels of a String|java|easy|
 |344|Reverse String|java|easy|
