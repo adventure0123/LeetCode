@@ -5,6 +5,7 @@ leetcode solution in java
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
+|352|Data Stream as Disjoint Intervals|hard|
 |350|Intersection of Two Arrays II|easy|
 |349|Intersection of Two Arrays|easy|
 |347|Top K Frequent Elements|java|medium|
