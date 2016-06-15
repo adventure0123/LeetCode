@@ -10,15 +10,15 @@ public class Count_Numbers_with_unique_Digits {
         if(n==1){
             return 10;
         }
-        if(n>=10){
+        if(n>10){
             return  countNumberWithUniqueDigits(10);
         }
         int temp=countNumberWithUniqueDigits(n-1);
-        return (temp-1)*(10-n+1)+temp;
+        return (temp-countNumberWithUniqueDigits(n-2))*(10-n+1)+temp;
     }
 
     public static void main(String[] args) {
         Count_Numbers_with_unique_Digits test=new Count_Numbers_with_unique_Digits();
-        System.out.println(test.countNumberWithUniqueDigits(3));
+        System.out.println(test.countNumberWithUniqueDigits(9));
     }
 }
