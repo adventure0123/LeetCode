@@ -3,7 +3,7 @@
  */
 public class Count_Numbers_with_unique_Digits {
 
-    public int countNumberWithUniqueDigits(int n){
+    public int countNumbersWithUniqueDigits(int n){
         if(n==0){
             return 1;
         }
@@ -11,14 +11,14 @@ public class Count_Numbers_with_unique_Digits {
             return 10;
         }
         if(n>10){
-            return  countNumberWithUniqueDigits(10);
+            return  countNumbersWithUniqueDigits(10);
         }
-        int temp=countNumberWithUniqueDigits(n-1);
-        return (temp-countNumberWithUniqueDigits(n-2))*(10-n+1)+temp;
+        int temp=countNumbersWithUniqueDigits(n-1);
+        return (temp-countNumbersWithUniqueDigits(n-2))*(10-n+1)+temp;
     }
 
     public static void main(String[] args) {
         Count_Numbers_with_unique_Digits test=new Count_Numbers_with_unique_Digits();
-        System.out.println(test.countNumberWithUniqueDigits(9));
+        System.out.println(test.countNumbersWithUniqueDigits(9));
     }
 }
