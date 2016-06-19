@@ -6,6 +6,7 @@ leetcode solution in java
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
 |357|Count_Numbers_with_unique_Digits|medium|
+|355|Design Twitter|medium|
 |352|Data Stream as Disjoint Intervals|hard|
 |350|Intersection of Two Arrays II|easy|
 |349|Intersection of Two Arrays|easy|
