@@ -5,11 +5,11 @@ leetcode solution in java
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
-|357|Count_Numbers_with_unique_Digits|medium|
-|355|Design Twitter|medium|
-|352|Data Stream as Disjoint Intervals|hard|
-|350|Intersection of Two Arrays II|easy|
-|349|Intersection of Two Arrays|easy|
+|357|Count_Numbers_with_unique_Digits|java|medium|
+|355|Design Twitter|java|medium|
+|352|Data Stream as Disjoint Intervals|java|hard|
+|350|Intersection of Two Arrays II|java|easy|
+|349|Intersection of Two Arrays|java|easy|
 |347|Top K Frequent Elements|java|medium|
 |345|Reverse Vowels of a String|java|easy|
 |344|Reverse String|java|easy|
