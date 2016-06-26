@@ -5,6 +5,7 @@ leetcode solution in java
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
+|367|Valid Perfect Square|java|medium|
 |357|Count_Numbers_with_unique_Digits|java|medium|
 |355|Design Twitter|java|medium|
 |352|Data Stream as Disjoint Intervals|java|hard|
