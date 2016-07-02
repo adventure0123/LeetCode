@@ -8,6 +8,7 @@ leetcode solution in java
 |371|Sum of Two Integers|java|easy|
 |368|Largest Divisible Subset|java|medium|
 |367|Valid Perfect Square|java|medium|
+|365|Water and Jug Problem|java|medium|
 |357|Count_Numbers_with_unique_Digits|java|medium|
 |355|Design Twitter|java|medium|
 |352|Data Stream as Disjoint Intervals|java|hard|
