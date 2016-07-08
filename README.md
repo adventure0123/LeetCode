@@ -5,6 +5,7 @@ leetcode solution in java
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
+|373|Find K Pairs with Smallest Sums|java|medium|
 |371|Sum of Two Integers|java|easy|
 |368|Largest Divisible Subset|java|medium|
 |367|Valid Perfect Square|java|medium|
