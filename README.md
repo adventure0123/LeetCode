@@ -5,6 +5,7 @@ leetcode solution in java
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
+|378|Kth Smallest Element in a Sorted Matrix|java|medium|
 |374|Guess Number Higher or Lower|java|easy|
 |373|Find K Pairs with Smallest Sums|java|medium|
 |371|Sum of Two Integers|java|easy|
