@@ -5,6 +5,7 @@ leetcode solution in java
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
+|380|Insert Delete GetRandom O(1)|java|medium|
 |378|Kth Smallest Element in a Sorted Matrix|java|medium|
 |377|Combination Sum IV|java|medium|
 |374|Guess Number Higher or Lower|java|easy|
