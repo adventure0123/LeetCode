@@ -5,6 +5,8 @@ leetcode solution in java
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
+|384|Shuffle an Array|java|medium|
+|383|Ransom Note|java|easy|
 |382|Linked List Random Node|java|medium|
 |380|Insert Delete GetRandom O(1)|java|medium|
 |378|Kth Smallest Element in a Sorted Matrix|java|medium|
