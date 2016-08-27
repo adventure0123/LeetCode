@@ -5,6 +5,7 @@ leetcode solution in java
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
+|387|First Unique Character in a String|java|easy|
 |384|Shuffle an Array|java|medium|
 |383|Ransom Note|java|easy|
 |382|Linked List Random Node|java|medium|
