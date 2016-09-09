@@ -7,6 +7,7 @@ leetcode solution in java
 |---|-------|----------|------------|
 |389|Find the Difference|java|easy|
 |387|First Unique Character in a String|java|easy|
+|386|Lexicographical Numbers|java|medium|
 |384|Shuffle an Array|java|medium|
 |383|Ransom Note|java|easy|
 |382|Linked List Random Node|java|medium|
