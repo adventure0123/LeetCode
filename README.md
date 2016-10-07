@@ -6,6 +6,7 @@ leetcode solution in java
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
 |392|Is Subsequence|java|medium|
+|390|Elimination Game|java|medium|
 |389|Find the Difference|java|easy|
 |387|First Unique Character in a String|java|easy|
 |386|Lexicographical Numbers|java|medium|
