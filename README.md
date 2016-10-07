@@ -5,6 +5,8 @@ leetcode solution in java
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
+|409|Longest Palindrome|java|easy|
+|394|Decode String|java|medium|
 |392|Is Subsequence|java|medium|
 |390|Elimination Game|java|medium|
 |389|Find the Difference|java|easy|
