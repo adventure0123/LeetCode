@@ -1,4 +1,4 @@
-package com.LeetCode;
+
 
 public class Add_Digits {
 	public int addDigits(int num) {

@@ -1,4 +1,4 @@
-package com.LeetCode;
+
 
 public class Ugly_Number_II {
 

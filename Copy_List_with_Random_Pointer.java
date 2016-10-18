@@ -1,4 +1,4 @@
-package com.LeetCode;
+
 
 public class Copy_List_with_Random_Pointer {
 	public RandomListNode copyRandomList(RandomListNode head) {

@@ -1,4 +1,4 @@
-package com.LeetCode;
+
 
 public class Balanced_Binary_Tree {
 	public boolean isBalanced(TreeNode root) {

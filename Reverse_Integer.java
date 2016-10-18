@@ -1,4 +1,4 @@
-package com.LeetCode;
+
 
 // pay attention to overflows
 public class Reverse_Integer {

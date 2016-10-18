@@ -1,4 +1,4 @@
-package com.LeetCode;
+
 
 public class Binary_Tree_Maximum_Path_Sum {
 	private int max = Integer.MIN_VALUE;

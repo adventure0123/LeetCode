@@ -1,4 +1,4 @@
-package com.LeetCode;
+
 
 public class Excel_Sheet_Column_Number {
 	public int titleToNumber(String s) {

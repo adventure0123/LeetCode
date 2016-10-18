@@ -1,4 +1,4 @@
-package com.LeetCode;
+
 
 public class Increasing_Triplet_Subsequence {
 	 public boolean increasingTriplet(int[] nums) {

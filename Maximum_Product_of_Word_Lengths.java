@@ -1,4 +1,4 @@
-package com.LeetCode;
+
 
 public class Maximum_Product_of_Word_Lengths {
 	 public int maxProduct(String[] words) {

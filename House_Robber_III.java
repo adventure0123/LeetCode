@@ -1,4 +1,4 @@
-package com.LeetCode;
+
 
 public class House_Robber_III {
 	public int rob(TreeNode root) {

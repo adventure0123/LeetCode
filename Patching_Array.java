@@ -1,4 +1,4 @@
-package com.LeetCode;
+
 
 public class Patching_Array {
 	public int minPatches(int[] nums, int n) {

@@ -1,4 +1,4 @@
-package com.LeetCode;
+
 
 public class Pow {
 	public double myPow(double x, int n) {

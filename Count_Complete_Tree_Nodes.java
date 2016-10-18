@@ -1,6 +1,5 @@
-package com.LeetCode;
 
-import com.LeetCode.Word_Search_II.trieNode;
+
 
 public class Count_Complete_Tree_Nodes {
 	public int countNodes(TreeNode root) {

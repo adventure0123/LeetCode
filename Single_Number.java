@@ -1,4 +1,4 @@
-package com.LeetCode;
+
 
 public class Single_Number {
 	public int singleNumber(int[] nums) {

@@ -1,4 +1,4 @@
-package com.LeetCode;
+
 
 public class Path_Sum {
 	public boolean hasPathSum(TreeNode root, int sum) {

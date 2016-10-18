@@ -1,4 +1,4 @@
-package com.LeetCode;
+
 
 /**
  * Created by yuanjianwei on 2015/6/30.

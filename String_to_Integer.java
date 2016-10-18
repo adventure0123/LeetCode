@@ -1,4 +1,4 @@
-package com.LeetCode;
+
 
 public class String_to_Integer {
 	public int atoi(String str) {

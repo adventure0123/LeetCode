@@ -1,4 +1,4 @@
-package com.LeetCode;
+
 
 public class Find_Peak_Element {
 	public int findPeakElement(int[] nums) {

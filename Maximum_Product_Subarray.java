@@ -1,4 +1,4 @@
-package com.LeetCode;
+
 
 public class Maximum_Product_Subarray {
 	public int maxProduct(int[] nums) {

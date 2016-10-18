@@ -1,4 +1,4 @@
-package com.LeetCode;
+
 
 public class First_Bad_Version {
 	  public int firstBadVersion(int n) {

@@ -1,4 +1,4 @@
-package com.LeetCode;
+
 
 //Manacher using symmetric 
 public class Longest_Palindromic_Substring {

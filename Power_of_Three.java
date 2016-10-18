@@ -1,4 +1,4 @@
-package com.LeetCode;
+
 
 public class Power_of_Three {
 	 public boolean isPowerOfThree(int n) {

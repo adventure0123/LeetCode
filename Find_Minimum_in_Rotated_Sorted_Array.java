@@ -1,4 +1,4 @@
-package com.LeetCode;
+
 
 public class Find_Minimum_in_Rotated_Sorted_Array {
 	public int findMin(int[] nums) {

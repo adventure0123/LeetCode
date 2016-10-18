@@ -1,4 +1,4 @@
-package com.LeetCode;
+
 
 public class Partition_List {
 	public ListNode partition(ListNode head, int x) {

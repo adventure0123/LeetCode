@@ -1,4 +1,4 @@
-package com.LeetCode;
+
 
 public class Minimum_Depth_of_Binary_Tree {
 	public int minDepth(TreeNode root) {

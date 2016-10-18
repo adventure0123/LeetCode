@@ -1,4 +1,4 @@
-package com.LeetCode;
+
 
 
 public class Range_Sum_Query {

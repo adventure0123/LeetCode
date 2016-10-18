@@ -1,9 +1,8 @@
-package com.LeetCode;
+
 
 import java.util.ArrayList;
 import java.util.List;
 
-import com.LeetCode.Word_Search_II.trieNode;
 
 public class Unique_Binary_Search_Trees_II {
 	public List<TreeNode> generateTrees(int n) {

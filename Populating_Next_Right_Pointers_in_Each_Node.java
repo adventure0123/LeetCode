@@ -1,4 +1,4 @@
-package com.LeetCode;
+
 
 public class Populating_Next_Right_Pointers_in_Each_Node {
 	public void connect(TreeLinkNode root) {

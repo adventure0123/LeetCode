@@ -1,4 +1,4 @@
-package com.LeetCode;
+
 
 public class Factorial_Trailing_Zeroes {
 	public int trailingZeroes(int n) {

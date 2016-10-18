@@ -1,4 +1,4 @@
-package com.LeetCode;
+
 
 public class Find_the_Duplicate_Number {
 	 public int findDuplicate(int[] nums) {

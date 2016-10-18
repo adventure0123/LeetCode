@@ -5,6 +5,8 @@ leetcode solution in java
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
+|416|Partition Equal Subset Sum|java|medium|
+|412|Fizz Buzz|java|easy|
 |409|Longest Palindrome|java|easy|
 |404|Sum of Left Leaves|java|easy|
 |394|Decode String|java|medium|
