@@ -6,6 +6,7 @@ leetcode solution in java
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
 |416|Partition Equal Subset Sum|java|medium|
+|414|Third Maximum Number|java|easy|
 |412|Fizz Buzz|java|easy|
 |409|Longest Palindrome|java|easy|
 |404|Sum of Left Leaves|java|easy|
