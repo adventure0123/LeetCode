@@ -5,6 +5,7 @@ leetcode solution in java
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
+|437|Path Sum III|java|easy|
 |416|Partition Equal Subset Sum|java|medium|
 |414|Third Maximum Number|java|easy|
 |412|Fizz Buzz|java|easy|
