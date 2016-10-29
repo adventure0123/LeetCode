@@ -7,6 +7,7 @@ leetcode solution in java
 |---|-------|----------|------------|
 |437|Path Sum III|java|easy|
 |416|Partition Equal Subset Sum|java|medium|
+|415|Add Strings|java|easy|
 |414|Third Maximum Number|java|easy|
 |412|Fizz Buzz|java|easy|
 |409|Longest Palindrome|java|easy|
