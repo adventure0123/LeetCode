@@ -5,6 +5,7 @@ leetcode solution in java
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
+|453|Minimum Moves to Equal Array Elements|java|easy|
 |441|Arranging Coins|java|easy|
 |437|Path Sum III|java|easy|
 |416|Partition Equal Subset Sum|java|medium|
