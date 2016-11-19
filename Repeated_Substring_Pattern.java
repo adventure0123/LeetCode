@@ -10,22 +10,27 @@ public class Repeated_Substring_Pattern {
         if(length<=1){
             return false;
         }
-        char c=str.charAt(0);
-        int index=1;
-        for(int i=0;i<length;i++){
-            if(str.charAt(i)==c){
-                index=i;
-                break;
+        for(int i=1;i<=length/2;i++){
+            if(length%i==0){
+                String subStr=str.substring(0,i);
+                StringBuffer sb=new StringBuffer();
+                for(int j=0;j<length/i;j++){
+                    sb.append(subStr);
+                    if(!sb.toString().equals(str.substring(0,sb.length()))){
+                        break;
+                    }
+                }
+                if(str.equals(sb.toString())){
+                    return true;
+                }
             }
         }
-        int subLength=index;
-        if(length%(index-1)!=0){
-            return false;
-        }
-        String subStr=str.substring(index);
-        StringBuffer sb=new StringBuffer();
-        int times=length/(index-1)
-        for(int i=0;i<)
-        return false;
+       return false;
+    }
+
+    public static void main(String[] args) {
+        Repeated_Substring_Pattern test=new Repeated_Substring_Pattern();
+        String s="aabaa";
+        System.out.println(test.repeatedSubstringPattern(s));
     }
 }
