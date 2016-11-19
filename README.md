@@ -5,6 +5,7 @@ leetcode solution in java
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
+|459|Repeated Substring Pattern|java|easy|
 |453|Minimum Moves to Equal Array Elements|java|easy|
 |441|Arranging Coins|java|easy|
 |437|Path Sum III|java|easy|
