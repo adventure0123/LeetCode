@@ -5,6 +5,7 @@ leetcode solution in java
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
+|463|Island Perimeter|java|easy|
 |459|Repeated Substring Pattern|java|easy|
 |453|Minimum Moves to Equal Array Elements|java|easy|
 |441|Arranging Coins|java|easy|
