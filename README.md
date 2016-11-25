@@ -6,7 +6,9 @@ leetcode solution in java
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
 |463|Island Perimeter|java|easy|
+|462|Minimum Moves to Equal Array Elements II|java|medium|
 |459|Repeated Substring Pattern|java|easy|
+|455|Assign Cookies|java|easy|
 |453|Minimum Moves to Equal Array Elements|java|easy|
 |441|Arranging Coins|java|easy|
 |437|Path Sum III|java|easy|
