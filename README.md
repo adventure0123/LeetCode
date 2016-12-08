@@ -12,6 +12,7 @@ leetcode solution in java
 |453|Minimum Moves to Equal Array Elements|java|easy|
 |441|Arranging Coins|java|easy|
 |437|Path Sum III|java|easy|
+|434|Number of Segments in a String|java|easy|
 |416|Partition Equal Subset Sum|java|medium|
 |415|Add Strings|java|easy|
 |414|Third Maximum Number|java|easy|
