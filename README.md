@@ -5,6 +5,7 @@ leetcode solution in java
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
+|476|Number Complement|javascript|easy|
 |463|Island Perimeter|java|easy|
 |462|Minimum Moves to Equal Array Elements II|java|medium|
 |459|Repeated Substring Pattern|java|easy|
