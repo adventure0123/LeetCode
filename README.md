@@ -5,6 +5,7 @@ leetcode solution in java
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
+|485|Max Consecutive Ones|javascript|easy|
 |476|Number Complement|javascript|easy|
 |463|Island Perimeter|java|easy|
 |462|Minimum Moves to Equal Array Elements II|java|medium|
