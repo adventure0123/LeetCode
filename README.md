@@ -12,6 +12,7 @@ leetcode solution in java
 |459|Repeated Substring Pattern|java|easy|
 |455|Assign Cookies|java|easy|
 |453|Minimum Moves to Equal Array Elements|java|easy|
+|448|Find All Numbers Disappeared in an Array|javascript|easy|
 |447|Number of Boomerangs|javascript|easy|
 |441|Arranging Coins|java|easy|
 |437|Path Sum III|java|easy|
