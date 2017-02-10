@@ -5,6 +5,7 @@ leetcode solution in java
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
+|506|Relative Ranks|javascript|easy|
 |501|Find Mode in Binary Search Tree|javascript|easy|
 |485|Max Consecutive Ones|javascript|easy|
 |476|Number Complement|javascript|easy|
