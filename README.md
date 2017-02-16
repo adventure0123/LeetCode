@@ -5,6 +5,7 @@ leetcode solution in java
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
+|513|Find Bottom Left Tree Value|javascript|medium|
 |506|Relative Ranks|javascript|easy|
 |501|Find Mode in Binary Search Tree|javascript|easy|
 |485|Max Consecutive Ones|javascript|easy|
