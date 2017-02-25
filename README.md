@@ -6,6 +6,7 @@ leetcode solution in java
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
 |525|Contiguous Array|javascript|medium|
+|520|Detect Capital|javascript|easy|
 |516|Longest Palindromic Subsequence|javascript|medium|
 |515|Find Largest Value in Each Tree Row|javascript|medium|
 |513|Find Bottom Left Tree Value|javascript|medium|
