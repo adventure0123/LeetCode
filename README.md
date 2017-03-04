@@ -5,6 +5,7 @@ leetcode solution in java
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
+|530|Minimum Absolute Difference in BST|easy|
 |525|Contiguous Array|javascript|medium|
 |520|Detect Capital|javascript|easy|
 |516|Longest Palindromic Subsequence|javascript|medium|
