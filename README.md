@@ -6,6 +6,7 @@ leetcode solution in java
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
 |541|Reverse String II|easy|
+|539|Minimum Time Difference|medium|
 |530|Minimum Absolute Difference in BST|easy|
 |525|Contiguous Array|javascript|medium|
 |520|Detect Capital|javascript|easy|
