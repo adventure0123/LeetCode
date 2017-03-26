@@ -5,6 +5,7 @@ leetcode solution in java
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
+|542|01 Matrix|medium|
 |541|Reverse String II|easy|
 |539|Minimum Time Difference|medium|
 |530|Minimum Absolute Difference in BST|easy|
