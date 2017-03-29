@@ -5,10 +5,11 @@ leetcode solution in java
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
-|542|01 Matrix|medium|
-|541|Reverse String II|easy|
-|539|Minimum Time Difference|medium|
-|530|Minimum Absolute Difference in BST|easy|
+|543|Diameter of Binary Tree|java|easy|
+|542|01 Matrix|javascript|medium|
+|541|Reverse String II|javascript|easy|
+|539|Minimum Time Difference|javascript|medium|
+|530|Minimum Absolute Difference in BST|javascript|easy|
 |525|Contiguous Array|javascript|medium|
 |520|Detect Capital|javascript|easy|
 |516|Longest Palindromic Subsequence|javascript|medium|
