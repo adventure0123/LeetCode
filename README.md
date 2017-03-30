@@ -9,6 +9,7 @@ leetcode solution in java
 |542|01 Matrix|javascript|medium|
 |541|Reverse String II|javascript|easy|
 |539|Minimum Time Difference|javascript|medium|
+|538|Convert BST to Greater Tree|java|medium|
 |530|Minimum Absolute Difference in BST|javascript|easy|
 |525|Contiguous Array|javascript|medium|
 |520|Detect Capital|javascript|easy|
