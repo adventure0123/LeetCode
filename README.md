@@ -19,6 +19,7 @@ leetcode solution in java
 |507|Base 7|javascript|easy|
 |506|Relative Ranks|javascript|easy|
 |501|Find Mode in Binary Search Tree|javascript|easy|
+|491|Increasing Subsequences|java|medium|
 |485|Max Consecutive Ones|javascript|easy|
 |476|Number Complement|javascript|easy|
 |463|Island Perimeter|java|easy|
