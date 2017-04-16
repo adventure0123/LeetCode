@@ -5,6 +5,7 @@ leetcode solution in java
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
+|551|Student Attendance Record I|java|easy|
 |543|Diameter of Binary Tree|java|easy|
 |542|01 Matrix|javascript|medium|
 |541|Reverse String II|javascript|easy|
