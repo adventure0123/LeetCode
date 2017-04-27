@@ -5,6 +5,8 @@ leetcode solution in java
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
+|563|Binary Tree Tilt|java|easy|
+|561|Array Partition I|java|easy|
 |551|Student Attendance Record I|java|easy|
 |543|Diameter of Binary Tree|java|easy|
 |542|01 Matrix|javascript|medium|
