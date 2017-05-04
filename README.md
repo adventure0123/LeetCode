@@ -5,6 +5,7 @@ leetcode solution in java
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
+|567|Permutation in String|java|Medium|
 |563|Binary Tree Tilt|java|easy|
 |561|Array Partition I|java|easy|
 |557|Reverse Words in a String III|java|easy|
