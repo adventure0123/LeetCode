@@ -8,6 +8,7 @@ leetcode solution in java
 |567|Permutation in String|java|Medium|
 |563|Binary Tree Tilt|java|easy|
 |561|Array Partition I|java|easy|
+|560|Subarray Sum Equals K|java|Medium|
 |557|Reverse Words in a String III|java|easy|
 |551|Student Attendance Record I|java|easy|
 |543|Diameter of Binary Tree|java|easy|
