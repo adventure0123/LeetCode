@@ -5,6 +5,7 @@ leetcode solution in java
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
+|594|Longest Harmonious Subsequence|java|easy|
 |575|Distribute Candies|java|easy|
 |567|Permutation in String|java|Medium|
 |563|Binary Tree Tilt|java|easy|
