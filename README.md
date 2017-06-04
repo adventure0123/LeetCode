@@ -5,6 +5,7 @@ leetcode solution in java
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
+|605|Can Place Flowers|java|easy|
 |594|Longest Harmonious Subsequence|java|easy|
 |581|Shortest Unsorted Continuous Subarray|java|easy|
 |575|Distribute Candies|java|easy|
