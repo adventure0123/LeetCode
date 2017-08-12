@@ -5,6 +5,7 @@ leetcode solution in java
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
+|654|Maximum Binary Tree|java|Medium|
 |606|Construct String from Binary Tree|java|easy|
 |605|Can Place Flowers|java|easy|
 |594|Longest Harmonious Subsequence|java|easy|
